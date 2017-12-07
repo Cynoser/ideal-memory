@@ -9,6 +9,8 @@ The 3-Dimensional Theory
 
 E.g: /
 // Assume This Is A 3-Dimensional Cube With 1 x 1 x 1
+
+'''
       _____________________  
     /                     /|
    /                     / |
@@ -24,7 +26,8 @@ E.g: /
 |                    |  /
 |                    | /
 |____________________|/
-                     
+'''
+
 The Cube Is = 1 x 1 x 1
 
 
