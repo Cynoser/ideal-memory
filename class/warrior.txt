@@ -1,0 +1,27 @@
+
+Main Branch: Warrior
+ 
+ 
+ DEFAULT: Warrior
+ 
+Skills: {
+ 
+ Name: Normal Attack
+  Description: A Normal Attack/Slash
+  Damage: ( 2 + Player DMG )
+  Cooldown: 2 second
+ 
+ Name: Charge
+  Description: Charge To The Enemys
+  Damage: ( 3*spd + Player DMG )
+  Cooldown: 3.5 second
+  
+ Name: Conts Attack
+  Description: Make A Continous Attack
+  Damage: ( 5 + Player DMG + SLASH_COUNT* )
+  Cooldown: 4 sec after failed the continous attack
+  
+ Name: 
+
+
+}
